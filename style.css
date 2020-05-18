@@ -1,0 +1,20 @@
+h1{
+  color:red;
+  background: yellow;
+}
+
+h2{
+    color: green;
+    background: red;
+}
+
+/*  */
+h3{
+   /* border-top: 3px dashed red;
+    border-right: 3px dashed red;
+    border-bottom: 3px solid green;
+    border-left: 3px solid green;*/
+    border: 1px solid red;
+    border-radius: 10px;
+
+}
