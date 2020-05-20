@@ -1,0 +1,26 @@
+#currencyPlayground {
+    /* background: maroon; */
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    
+    border: 1px solid #b00707;
+    border-radius: 4px;
+    width: 400px;
+    display: grid;
+    grid-template-columns: 1fr auto auto;
+    grid-gap: 5px;
+}
+
+input {
+    padding: 10px;
+}
+
+select {
+    padding: 10px;
+}
+
+button {
+    padding: 10px;
+}
