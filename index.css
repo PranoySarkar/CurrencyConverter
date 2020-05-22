@@ -24,3 +24,16 @@ select {
 button {
     padding: 10px;
 }
+
+img{
+    width: 50px;
+}
+
+#imageContainer{
+    border: 1px solid #120e0e5c;
+    width: 50px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 3px;
+    box-shadow: 0px 0px 8px 4px #0003;
+}
